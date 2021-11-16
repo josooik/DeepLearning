@@ -20,5 +20,5 @@ Deep learning basics class. Learn and practice basic concepts of machine learnin
 14. detertor_with_mask
 15. segmentation_basic
 16. segmentation_advence
-17.CNN_FeatureMap
+17. CNN_FeatureMap
 18. segmentation_lane
