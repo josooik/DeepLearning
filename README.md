@@ -4,15 +4,15 @@ Lecture_deeplearning_basic
 Deep learning basics class. Learn and practice basic concepts of machine learning and deep learning.
 
 # 목차
-1. Linear Regression
-2. Logistic Regression
-3. Softmax Regression
-4. Decision Tree
-5. MNIST_dataset
-6. Fashion_MNIST
-7. cifar10.
-8. TF_app_classification
-9. TF_hub_object_detection
+01. Linear Regression
+02. Logistic Regression
+03. Softmax Regression
+04. Decision Tree
+05. MNIST_dataset
+06. Fashion_MNIST
+07. cifar10.
+08. TF_app_classification
+09. TF_hub_object_detection
 10. build_model_practice
 11. face_detector
 12. face_Classifier
