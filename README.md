@@ -23,3 +23,5 @@ Deep learning basics class. Learn and practice basic concepts of machine learnin
 17. CNN_FeatureMap
 18. segmentation_lane
 19. Kaggle_dataset_Car
+20. TrafficCustomYolo
+21. Traffic_test
